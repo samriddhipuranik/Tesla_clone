@@ -73,6 +73,10 @@ const LeftButton = styled.div`
   margin: 8px;
   line-height: 40px;
 
+  @media(max-width: 768px){
+    z-index: -1;
+}
+
 `
 
 const RightButton = styled(LeftButton)`
@@ -80,6 +84,9 @@ const RightButton = styled(LeftButton)`
   opacity: 0.65;
   color: black;
   line-height: 40px;
+  @media(max-width: 768px){
+    z-index: -1;
+}
 `
 const DownArrow = styled.img`
   margin-top: 20px;
