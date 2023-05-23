@@ -3,6 +3,7 @@
 
 Building a Tesla clone frontend project using React Redux is a fascinating endeavor that combines the excitement of replicating a renowned brand with the practical goal of mastering frontend technologies. 
 
+Click here and check the site - https://tesla-clone-dev.netlify.app/
 
 ## Tech Stack
 
