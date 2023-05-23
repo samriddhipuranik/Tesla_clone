@@ -7,8 +7,8 @@ Click here and check the site - https://tesla-clone-dev.netlify.app/
 
 ## Tech Stack
 
-Reactjs,  
-Redux,  
+Reactjs  
+Redux  
 Styled Components (CSS-in-JS library)
 
 
